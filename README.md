@@ -1,6 +1,4 @@
-# Read Me
-
-Hey, my name is Mona, and I am a software engineer from Detroit, MI!
+# Hey, my name is Mona, and I am a software engineer from Detroit, MI!
 
 Hello world! I am an MN native looking for fresh oppurtunities in MI. In 2020 I started at Lambda School and very quickly became a leader to my peers, offering additional instruction to those who need it. I'm here for others and love learning and creating a diverse network.
 
