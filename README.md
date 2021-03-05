@@ -5,9 +5,13 @@ Hello world! I am an MN native looking for fresh oppurtunities in MI. In 2020 I 
 I take pride in in building relationships and probing for more knowledge.
 
 Find me on --
+
 LinkedIn   www.linkedin.com/in/monaahassan
+
 My Website www.monamia.dev
+
 My Blog    www.therefinedplatform.com
+
 Languages & technologies --
 HTML CSS Javascript React Redux Java PostgreSQL Python
 
